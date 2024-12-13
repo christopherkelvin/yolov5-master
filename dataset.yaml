@@ -1,0 +1,13 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 8
+names:
+  -Early blight
+  -Healthy
+  -Late blight
+  -Leaf Miner
+  -Magnesium Deficiency
+  -Nitrogen Deficiency
+  -Potassium Deficiency
+  -Spotted Wilt Virus
